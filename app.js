@@ -6,3 +6,4 @@ $("#card").wScratchPad({
   fg: `Images/front1.jpg`, // Foreground (image path or hex color).
   cursor: "pointer", // Set cursor.
 });
+// this is comment
