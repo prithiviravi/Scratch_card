@@ -7,3 +7,4 @@ $("#card").wScratchPad({
   cursor: "pointer", // Set cursor.
 });
 // this is comment
+//comment2
